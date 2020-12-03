@@ -1,4 +1,4 @@
-# pr-hands-on
+# Training on Pull Requests
 This repo contains material for the github PRs hands-on
 
 ### 👨🏻‍💻 Maintainers
